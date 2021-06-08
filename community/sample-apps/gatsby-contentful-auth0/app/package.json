@@ -27,7 +27,7 @@
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
     "react-dom": "^16.8.6",
-    "subscriptions-transport-ws": "^0.9.16"
+    "subscriptions-transport-ws": "^0.9.19"
   },
   "devDependencies": {
     "prettier": "^1.16.4"
